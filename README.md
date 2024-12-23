@@ -1,18 +1,12 @@
-![𝐀𝐖𝐀𝐍-𝐌𝐃](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+𝐀𝐒𝐒𝐋𝐀𝐌-𝐔-𝐀𝐋𝐀𝐈𝐊𝐔𝐌+❣️+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄+👋🏻;😍+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐀𝐖𝐀𝐍+𝐌𝐃+𝐁𝐎𝐓+💙;🔥+𝐓𝐇𝐄+𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓+𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄!;🎉+𝐄𝐍𝐉𝐎𝐘+𝐔𝐍𝐋𝐈𝐌𝐈𝐓𝐄𝐃+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒+𝐀𝐍𝐃+𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒!;💡+𝐅𝐀𝐒𝐓+%7𝐂+𝐑𝐄𝐋𝐈𝐀𝐁𝐋𝐄+%7𝐂+𝐔𝐒𝐄𝐑-𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘+𝐁𝐎𝐓!;✨+𝐋𝐄𝐓'𝐒+𝐆𝐄𝐓+𝐒𝐓𝐀𝐑𝐓𝐄𝐃!)
+### <br>    ❖ MAFIA-MD-BOT ❖
 
-
-<div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
-    <a href="" style="text-decoration: none;">
-        <img 
-            alt="AWAN" 
-            width="700" 
-            height="400" 
-            src="https://qu.ax/OAbEA.jpg" 
-            style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
-            onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
-            onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
-        >
-    </a>
+***
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +MAFIA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MAFIA+ADEEL+AWAN-ZADA;RELEASED+18.10.2024" alt="Typing SVG" /></a>
+  </p>
+    <img alt="MAFIA-MD" width="700" height="300" src="https://i.imghippo.com/files/RYX5040mys.jpg">
+<p align="center">
+<p align="center">
     <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊 𝙈𝙐𝘿𝘼𝙎𝙎𝘼𝙍 𝘼𝙒𝘼𝙉 𝙕𝘼𝘿𝘼 𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
 
 
